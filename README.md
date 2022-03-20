@@ -1,1 +1,1 @@
-# This isnt mine. It's Solaris Ui Library but im just putting it here so its easier for me. Not taking credits, all go to Solaris devs.
+This isn't mine. It's the Solaris Ui Library, but I'm just putting it here so it's easier for me. I take no credit; all credit goes to the Solaris developers.
